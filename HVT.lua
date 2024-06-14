@@ -1,4 +1,4 @@
--- HVT by Imperial, v1.11.11
+-- HVT by Imperial, beta
 
 -- Instances:
 
